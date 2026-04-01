@@ -31,5 +31,7 @@
       }
     }
   ],
-  "trash_scores": {}
+  "trash_scores": {
+    "default": 50
+  }
 }

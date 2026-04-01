@@ -1,0 +1,19 @@
+{
+  "trash_id": "test1234567890abcdef1234567890ab",
+  "trash_scores": {
+    "default": 1700
+  },
+  "name": "Remux Tier 04",
+  "includeCustomFormatWhenRenaming": false,
+  "specifications": [
+    {
+      "name": "TestGroup",
+      "implementation": "ReleaseTitleSpecification",
+      "negate": false,
+      "required": false,
+      "fields": {
+        "value": "\\b(TestGroup)\\b"
+      }
+    }
+  ]
+}
