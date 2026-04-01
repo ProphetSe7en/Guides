@@ -30,5 +30,8 @@
         "value": 8
       }
     }
-  ]
+  ],
+  "trash_scores": {
+    "default": 1
+  }
 }
