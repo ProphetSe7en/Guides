@@ -1,7 +1,7 @@
 {
   "name": "[Streaming Services] General",
   "trash_id": "d9cc9a504e5ede6294c8b973aad4f028",
-  "trash_description": "Collection of General Streaming Services for Radarr (test update)",
+  "trash_description": "Collection of General Streaming Services for Radarr",
   "default": "true",
   "custom_formats": [
     {
