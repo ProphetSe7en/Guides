@@ -4,7 +4,8 @@
     "sqp-2": -10000,
     "sqp-3": -10000,
     "sqp-4": -10000,
-    "sqp-5": -10000
+    "sqp-5": -10000,
+    "default": 999
   },
   "name": "x264",
   "includeCustomFormatWhenRenaming": false,
