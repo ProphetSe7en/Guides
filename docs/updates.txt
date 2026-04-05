@@ -1,3 +1,8 @@
+# 2026-04-05 15:00
+- [fix(radarr): Adjusted Repack/Proper default score to 12](https://github.com/TRaSH-Guides/Guides/pull/2701)
+- [fix(radarr): Increased Obfuscated penalty to -10500](https://github.com/TRaSH-Guides/Guides/pull/2700)
+- [fix(sonarr): Increased Season Pack bonus to 120](https://github.com/TRaSH-Guides/Guides/pull/2699)
+
 # 2026-04-05 14:00
 - [fix(guide-sync): Adjusted 10bit CF score for SQP-1 1080p profile](https://github.com/TRaSH-Guides/Guides/pull/9999)
 - [feat(radarr): Test notification for Clonarr Gotify integration](https://github.com/TRaSH-Guides/Guides/pull/9998)
