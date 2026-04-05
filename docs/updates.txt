@@ -1,3 +1,7 @@
+# 2026-04-05 14:00
+- [fix(guide-sync): Adjusted 10bit CF score for SQP-1 1080p profile](https://github.com/TRaSH-Guides/Guides/pull/9999)
+- [feat(radarr): Test notification for Clonarr Gotify integration](https://github.com/TRaSH-Guides/Guides/pull/9998)
+
 # 2026-03-29 02:40
 - [chore(guide-sync): Disabled the wrong quality source in the new profile SQP-4 (MA Hybrid)](https://github.com/TRaSH-Guides/Guides/pull/2669)
 - [feat(guide-sync): Added new profile SQP-4 (MA Hybrid)](https://github.com/TRaSH-Guides/Guides/pull/2667)
