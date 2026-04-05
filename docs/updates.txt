@@ -1,11 +1,8 @@
-# 2026-04-06 02:00
-- [fix(radarr): Adjusted Repack/Proper default score to 12](https://github.com/TRaSH-Guides/Guides/pull/2701)
-- [fix(radarr): Increased Obfuscated penalty to -10500](https://github.com/TRaSH-Guides/Guides/pull/2700)
-- [fix(sonarr): Increased Season Pack bonus to 120](https://github.com/TRaSH-Guides/Guides/pull/2699)
-
-# 2026-04-05 14:00
-- [fix(guide-sync): Adjusted 10bit CF score for SQP-1 1080p profile](https://github.com/TRaSH-Guides/Guides/pull/9999)
-- [feat(radarr): Test notification for Clonarr Gotify integration](https://github.com/TRaSH-Guides/Guides/pull/9998)
+# 2026-04-07 02:30
+- [fix(radarr): Reverted Repack/Proper, Obfuscated scores to defaults](https://github.com/TRaSH-Guides/Guides/pull/2705)
+- [fix(sonarr): Reverted Season Pack score to default](https://github.com/TRaSH-Guides/Guides/pull/2704)
+- [fix(guide-sync): Reverted 10bit CF score for SQP-1 1080p](https://github.com/TRaSH-Guides/Guides/pull/2703)
+- [feat(starr): Added new P2P Groups tracking CF](https://github.com/TRaSH-Guides/Guides/pull/2702)
 
 # 2026-03-29 02:40
 - [chore(guide-sync): Disabled the wrong quality source in the new profile SQP-4 (MA Hybrid)](https://github.com/TRaSH-Guides/Guides/pull/2669)
